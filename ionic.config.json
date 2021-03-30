@@ -1,0 +1,7 @@
+{
+  "name": "elective4-activities",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
